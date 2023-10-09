@@ -1,0 +1,5 @@
+hacer el programa de cuanto cuesta, con un objeto que tenga nombre, tesoreria, empleados (nombre, sueldo), proyectos(nombre,esfuerzo,presupuesto)
+
+funcion asignar
+recibe los datos de la empresa, de un empleado, y del proyecto al que se le va a asignar
+devuelve la estructura modificada para que refleje que el empleado esta asignado a un proyecto

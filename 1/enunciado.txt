@@ -1,0 +1,12 @@
+dados de entre 4 y 20 caras
+    todos son igualmente probables
+cuando tiene que hacer un augurio siempre tira 2 dados
+hace su augurio en funcion de lo que digan los dados
+    cual es el numero o numeros mas probables y cuales son los menos probables
+
+datos entrada
+    4,6
+
+datos salida es la suma de los 2 numeros
+5,6,7
+2,10
